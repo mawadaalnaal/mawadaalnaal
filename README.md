@@ -1,5 +1,4 @@
 <h1 align="center" style="color: #FF69B4;">Hello! I'm Mawada 👋</h1>
-<p align="center">I love open source :)</p>
 
 <p align="center">
 A passionate Front-End Developer 🌍
@@ -14,13 +13,7 @@ A passionate Front-End Developer 🌍
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
----
 
 ## My Skills
 

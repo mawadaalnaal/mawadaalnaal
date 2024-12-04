@@ -1,5 +1,5 @@
-<h1 align="center" style="color: #441752; font-family: 'YourChosenFont', sans-serif;">Hello! I'm Mawada 👋</h1>
-<p align="center" style="font-family: 'YourChosenFont', sans-serif;">A passionate Front-End Developer 🌍</p>
+<h1 align="center" style="color: #441752; font-family: 'Roboto', sans-serif;">Hello! I'm Mawada 👋</h1>
+<p align="center" style="font-family: 'Roboto', sans-serif;">A passionate Front-End Developer 🌍</p>
 
 ---
 
@@ -30,17 +30,17 @@
   <div style="background-color: #ddd; width: 100%; height: 30px; border-radius: 10px; margin-bottom: 10px;">
     <div style="background-color: #f7df1e; width: 80%; height: 100%; border-radius: 10px; text-align: center; line-height: 30px; color: black; font-weight: bold;"></div>
   </div>
+  
+  <!-- Tailwind CSS -->
+  <p><strong>Tailwind CSS</strong> <img src="https://img.shields.io/badge/Tailwind%20CSS-85%25-lightgreen" alt="Tailwind CSS"></p>
+  <div style="background-color: #ddd; width: 100%; height: 30px; border-radius: 10px; margin-bottom: 10px;">
+    <div style="background-color: #38bdf8; width: 85%; height: 100%; border-radius: 10px; text-align: center; line-height: 30px; color: white; font-weight: bold;"></div>
+  </div>
 
   <!-- React -->
   <p><strong>React</strong> <img src="https://img.shields.io/badge/React-75%25-lightblue" alt="React"></p>
   <div style="background-color: #ddd; width: 100%; height: 30px; border-radius: 10px; margin-bottom: 10px;">
     <div style="background-color: #61dafb; width: 75%; height: 100%; border-radius: 10px; text-align: center; line-height: 30px; color: black; font-weight: bold;"></div>
-  </div>
-
-  <!-- Tailwind CSS -->
-  <p><strong>Tailwind CSS</strong> <img src="https://img.shields.io/badge/Tailwind%20CSS-85%25-lightgreen" alt="Tailwind CSS"></p>
-  <div style="background-color: #ddd; width: 100%; height: 30px; border-radius: 10px; margin-bottom: 10px;">
-    <div style="background-color: #38bdf8; width: 85%; height: 100%; border-radius: 10px; text-align: center; line-height: 30px; color: white; font-weight: bold;"></div>
   </div>
 
   <!-- Bootstrap -->

@@ -1,5 +1,5 @@
-<h1 align="center" style="color: #FF69B4;">Hello! I'm Mawada 👋</h1>
-<p align="center">A passionate Front-End Developer 🌍</p>
+<h1 align="center" style="color: #441752; font-family: 'YourChosenFont', sans-serif;">Hello! I'm Mawada 👋</h1>
+<p align="center" style="font-family: 'YourChosenFont', sans-serif;">A passionate Front-End Developer 🌍</p>
 
 ---
 
@@ -38,9 +38,9 @@
   </div>
 
   <!-- Tailwind CSS -->
-  <p><strong>Tailwind CSS</strong> <img src="https://img.shields.io/badge/Tailwind%20CSS-70%25-lightgreen" alt="Tailwind CSS"></p>
+  <p><strong>Tailwind CSS</strong> <img src="https://img.shields.io/badge/Tailwind%20CSS-85%25-lightgreen" alt="Tailwind CSS"></p>
   <div style="background-color: #ddd; width: 100%; height: 30px; border-radius: 10px; margin-bottom: 10px;">
-    <div style="background-color: #38bdf8; width: 70%; height: 100%; border-radius: 10px; text-align: center; line-height: 30px; color: white; font-weight: bold;"></div>
+    <div style="background-color: #38bdf8; width: 85%; height: 100%; border-radius: 10px; text-align: center; line-height: 30px; color: white; font-weight: bold;"></div>
   </div>
 
   <!-- Bootstrap -->
